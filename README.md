@@ -25,21 +25,23 @@
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+user@epd981ncms5ssi244s1o:~$ VBoxManage --version
+6.1.44r156814
+user@epd981ncms5ssi244s1o:~$ vagrant --version
+Vagrant 2.2.19
+user@epd981ncms5ssi244s1o:~$ terraform --version
+Terraform v1.4.6
+on linux_amd64
+user@epd981ncms5ssi244s1o:~$ ansible --version
+ansible 2.10.8
+  config file = None
+  configured module search path = ['/home/user/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /usr/lib/python3/dist-packages/ansible
+  executable location = /usr/bin/ansible
+  python version = 3.9.2 (default, Feb 28 2021, 17:03:44) [GCC 10.2.1 20210110]
+
 ```
 
 `При необходимости прикрепитe сюда скриншоты
